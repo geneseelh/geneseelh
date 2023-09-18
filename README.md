@@ -1,7 +1,7 @@
 ### Hi, I'm Genesee Harmon! 👋
 
 - 👾 My interests include coding, video games, and music.
-- 🌱 I’m currently learning all things JavaScript and video game development.
+- 🌱 I’m currently learning JavaScript and video game development.
 - 📫 How to reach me: geneseelh@gmail.com
 
 <!---
