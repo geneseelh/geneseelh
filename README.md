@@ -1,4 +1,4 @@
-### Hi, I'm Genesee Harmon! 👋
+### Hi, I'm Genesee! 👋
 
 - 👾 My interests include coding, video games, and music.
 - 🌱 I’m currently learning JavaScript and video game development.
