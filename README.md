@@ -1,7 +1,7 @@
 ### Hi, I'm Genesee! 👋
 
 - 👾 My interests include coding, video games, and music.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning C/C++ and Java.
 - 📫 How to reach me: geneseelh@gmail.com
 
 <!---
